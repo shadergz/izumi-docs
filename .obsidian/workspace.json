@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb37cd9d769d3559",
+        "id": "9150a3a041bff7be",
         "type": "tabs",
         "children": [
           {
-            "id": "92950bdaff6008b1",
+            "id": "ef5af7fc16a7c0c3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92950bdaff6008b1",
+  "active": "ef5af7fc16a7c0c3",
   "lastOpenFiles": [
-    "What is needed.md",
     "Fundamentals.md",
+    "What is needed.md",
     "Primary Devices and system.md",
     "Untitled.md",
     "Steps/1 - Keys and production keys (1 of 3).md",
