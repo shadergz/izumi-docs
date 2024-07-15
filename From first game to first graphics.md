@@ -1,0 +1,12 @@
+### TODO
+- Keys Parser
+- NSO/NRO Reader
+- Process subsystem
+- User space scheduler
+- ROM mapper into process
+- Kernel with thread ecosystem
+- ARM64 JIT-Recompiler or NCE (Called "judy")
+- Vulkan ecosystem (with a buffer manager system working)
+- Initial services working
+- Initial Maxwell graphics emulation layer (saitama)
+- Units tests

@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "f0c161f4e80ec412",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb37cd9d769d3559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92950bdaff6008b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60bd8421b373b1ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65ab057037d1c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c19eed6e7bbe59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e35c6cecb540a34f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0d33a854ac3702b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "d2d4e887eec2fe66",
+    "type": "split",
+    "children": [
+      {
+        "id": "73608490c8a1cef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72b709989820dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73ad6ba8d887a284",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0be4ddb973b12383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0dd045b4b28a49d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92950bdaff6008b1",
+  "lastOpenFiles": [
+    "What is needed.md",
+    "Fundamentals.md",
+    "Primary Devices and system.md",
+    "Untitled.md",
+    "Steps/1 - Keys and production keys (1 of 3).md",
+    "Formats/XCI.md",
+    "From first game to first graphics.md"
+  ]
+}
