@@ -1,7 +1,7 @@
 ### Surface Requirements
 - Linux version
 - Android version
-- Shared Core compatible with both architectures (x86_64 and Armv8-A)
+- Shared Core compatible with both architectures (x86_64 and ARMv8-A)
 ### Architecture support
 - Android: ARM & x86
 - Linux: x86 only
