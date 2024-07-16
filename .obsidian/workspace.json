@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9150a3a041bff7be",
+        "id": "22c4a572ffecad72",
         "type": "tabs",
         "children": [
           {
-            "id": "ef5af7fc16a7c0c3",
+            "id": "08c0fc1f091b40d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef5af7fc16a7c0c3",
+  "active": "08c0fc1f091b40d2",
   "lastOpenFiles": [
     "Fundamentals.md",
     "What is needed.md",
