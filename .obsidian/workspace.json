@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22c4a572ffecad72",
+        "id": "e1d96b5e1d753587",
         "type": "tabs",
         "children": [
           {
-            "id": "08c0fc1f091b40d2",
+            "id": "c36dea06b4eb9ac4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is needed.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is needed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is needed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "What is needed.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08c0fc1f091b40d2",
+  "active": "54c19eed6e7bbe59",
   "lastOpenFiles": [
-    "Fundamentals.md",
+    "From first game to first graphics.md",
     "What is needed.md",
     "Primary Devices and system.md",
-    "Untitled.md",
+    "Fundamentals.md",
     "Steps/1 - Keys and production keys (1 of 3).md",
     "Formats/XCI.md",
-    "From first game to first graphics.md"
+    "Untitled.md"
   ]
 }
